@@ -1,6 +1,6 @@
 Name:		texlive-xii-lat
 Version:	45805
-Release:	1
+Release:	2
 Summary:	Christmas silliness (Latin)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xii-lat
