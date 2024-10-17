@@ -3,7 +3,7 @@ Version:	45805
 Release:	2
 Summary:	Christmas silliness (Latin)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xii-lat
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xii-lat
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xii-lat.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xii-lat.doc.r%{version}.tar.xz
